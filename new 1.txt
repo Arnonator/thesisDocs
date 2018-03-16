@@ -1,0 +1,8 @@
+WebAdmin suite:
+
+sdtf/suites/ias/webadmin/
+
+IAS:
+
+Webadmin Default URL: https://<hostname/ip>:8443
+Default IAS admin: iasadmin:Test1234
